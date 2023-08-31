@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+I'm Zak! Althought I typically go by Kerm online 😄
+
+I recently graduated first in class from Stevens Institute of Technology with a Computer Engineering major as well as Computer Science minor. I'm currently pursuing opportunities in software engineering.
+
 <!--
 **KermWasTaken/KermWasTaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
