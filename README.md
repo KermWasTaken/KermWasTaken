@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Zak! Althought I typically go by Kerm online 😄
+I'm Zak! Although I typically go by Kerm online 😄
 
 I recently graduated first in class from Stevens Institute of Technology with a Computer Engineering major as well as Computer Science minor. I'm currently pursuing opportunities in Software Engineering. 🖥️
 
